@@ -2,6 +2,10 @@ Wordpress Slim framework plugin
 ===============================
 
 I built this plugin from a need of using a micro framework as Slim but inside Wordpress.
+Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
+This technology is based on the SlimFramework https://https://www.slimframework.com/
+
+Slim is an ideal tool to create APIs that consume, repurpose, or publish data. Slim is also a great tool for rapid prototyping. Slim is super fast and has very little code.
 
 Installation
 ------------
